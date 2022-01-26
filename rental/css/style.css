@@ -1,0 +1,64 @@
+header{
+    height: 100vh;
+    background-image: url('../assets/narzędzia4.jpg');
+    background-position: center;
+    background-size: cover;
+}
+nav{
+    background: transparent;
+    border-bottom: 2px solid white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+header button{
+    background: transparent;
+    border: 2px solid white;
+    color:white;
+    padding: 5px;
+    font-size: 26px;
+}
+.card img{
+    height: 100px;
+}
+#reservation{
+    background-image:url('../assets/habu-tlo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#reservation label{
+    font-weight: bold;
+}
+footer{
+    font-family: monospace;
+    font-size: 18px;
+}
+nav li{
+    cursor: pointer;
+}
+header ul li a:hover{
+    background-color: rgba(255,255,255,0.3);
+    color: rgba(0,0,0,0.6);
+}
+header div button:hover{
+    background-color: rgba(255,255,255,0.3);
+    color: rgba(0,0,0,0.6);
+}
+#up-button{
+    display: none;
+    position: fixed;
+    right: 30px;
+    bottom: 20px;
+    z-index: 88;
+    outline: none;
+    background-color: transparent;
+    border: none;
+    background-image: url('../assets/strza.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 80px;
+    width: 80px;
+    cursor: pointer;
+}
