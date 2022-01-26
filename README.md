@@ -1,6 +1,8 @@
 # studies
 A place to store my programming exercises in college.
 
-Comments are welcome!
+1. First php project (html, bootstrap, java script).
 
-But please - DON'T CHANGE ANYTHING in the files in this repository! Thank you!
+Please - DON'T CHANGE ANYTHING in this repository! Thank you!
+
+
