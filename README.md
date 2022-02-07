@@ -9,9 +9,9 @@ Please - DON'T CHANGE ANYTHING in this repository! Thank you!
 How to start:
 
 1. Download the repository to your computer to "htdocs" folder in XAMPP catalog. 
-2. Import rental.sql to PhpMyAdmin db.
+2. Import rental.sql to PhpMyAdmin creating first "rental" db.
 3. Open folder "rental" in Visual Studio Code.
 4. Run XAMPP with services.
-5. Go to the browser adress: 127.0.0.1/rental
+5. Go to the browser adress: 127.0.0.1/rental (or: localhost/rental)
 
 
